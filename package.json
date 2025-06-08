@@ -1,9 +1,9 @@
 {
-  "name": "nodejs-app",
+  "name": "GameGlitch",
   "version": "1.0.0",
-  "description": "A minimal Node.js web application.",
+  "description": "GameGlitch.",
   "main": "app.js",
-  "author": "alphasec",
+  "author": "SnusEnjoyer",
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2"
